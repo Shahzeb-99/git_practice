@@ -11,7 +11,7 @@ def print_hello(name):
     print(sum_square(5))
 
 
-def sum_square(n):
+def mum_square(n):
     print(any([True, False, False]))
     print(list(filter(lambda x: 0 , [1, 2, 3, 4, 5])))
     print(sum(map(lambda x: x * x, range(1,n))))
